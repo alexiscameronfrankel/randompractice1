@@ -16,10 +16,7 @@ var moveZeroes = function(nums) {
     for(let i = 0; i < newArr.length; i++){
         nums.push(newArr[i])
     }
-    // console.log(indexArr)
     // console.log(newArr)
     // console.log(nums.length)
     return nums
-    // return nums
-
 };
