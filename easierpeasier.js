@@ -1,0 +1,6 @@
+//Return negative number...Numbers might already be negative
+
+function makeNegative(num) {
+  if(num < 0){return num}
+  else {return - + num}
+}
